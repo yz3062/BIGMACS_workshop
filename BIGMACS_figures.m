@@ -1,17 +1,6 @@
-inputFile = 'CycloAstro_demo';
-
-inputMode = 'age_model_construction';
-% inputMode = 'stack_construction';
-
-% printFig = 'show';
-printFig = 'hide';
-
-% BIGMACS(inputFile,inputMode,printFig);
-BIGMACS(inputFile,inputMode);
-
 %% load output data
 % add folder to search path
-addpath('./Outputs/CycloAstro_demo_d18O')
+addpath('MATLAB/BIGMACS-master/Outputs/CycloAstro_demo_d18O')
 
 % load results.mat file
 % the 'summary' structure contains most of the output data that will be of interest
@@ -123,3 +112,4 @@ set(gca,'FontSize',12,'XMinorTick','on','YMinorTick','on')
 xlabel('Relative age (kyr)','FontSize',14,'FontWeight','bold')
 ylabel('Depth (m)','FontSize',14,'FontWeight','bold')
 title('CL width','FontSize',16,'FontWeight','bold')
+

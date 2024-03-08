@@ -1,0 +1,3 @@
+data_type: d18O
+stack_min: 15125
+stack_max: 15850
