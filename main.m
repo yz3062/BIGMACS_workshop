@@ -122,4 +122,4 @@ set(gca,'FontSize',12,'XMinorTick','on','YMinorTick','on')
 % assign axis labels and title
 xlabel('Relative age (kyr)','FontSize',14,'FontWeight','bold')
 ylabel('Depth (m)','FontSize',14,'FontWeight','bold')
-title('CL width','FontSize',16,'FontWeight','bold')
+title('95% CI','FontSize',16,'FontWeight','bold')
