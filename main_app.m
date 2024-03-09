@@ -1,3 +1,4 @@
+function main_app()
 inputFile = 'CycloAstro_demo';
 
 inputMode = 'age_model_construction';
@@ -123,3 +124,5 @@ set(gca,'FontSize',12,'XMinorTick','on','YMinorTick','on')
 xlabel('Relative age (kyr)','FontSize',14,'FontWeight','bold')
 ylabel('Depth (m)','FontSize',14,'FontWeight','bold')
 title('95% CI','FontSize',16,'FontWeight','bold')
+
+end
