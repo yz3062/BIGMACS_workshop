@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="1733207635" file="/Users/zhou/Documents/GitHub/BIGMACS_workshop/Matlab_workshop.prj" location="/Users/zhou/Documents/GitHub/BIGMACS_workshop" name="Matlab_workshop" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="168601682" file="/Users/zhou/Documents/GitHub/BIGMACS_workshop/Matlab_workshop.prj" location="/Users/zhou/Documents/GitHub/BIGMACS_workshop" name="Matlab_workshop" target="target.mlapps" target-name="Package App">
     <param.appname>Matlab_workshop</param.appname>
     <param.authnamewatermark />
     <param.email />
@@ -15,7 +15,7 @@
     <param.products.version />
     <param.platforms />
     <param.output>${PROJECT_ROOT}</param.output>
-    <param.guid>0f04ae0b-4e02-4a37-8e78-7231caa3f033</param.guid>
+    <param.guid>99599307-1711-4f42-b906-d67a0a8b37c4</param.guid>
     <unset>
       <param.authnamewatermark />
       <param.email />
